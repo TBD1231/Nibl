@@ -8,7 +8,7 @@ Nibl
 - Duy Pham (CS) phamdd@mail.uc.edu
 
 #Faculty Advisor
-Dr. Aurek Chattopadhyay
+Dr. Aurek Chattopadhyay, Computer Science and Engineering, chattoak@mail.uc.edu
 
 #Project Topic Area
 Nibl is a social platform for discovering what to order at restaurants in the Cincinnati area. 
