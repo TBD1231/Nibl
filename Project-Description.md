@@ -7,6 +7,9 @@ Nibl
 - Nathan Wiley (CS) wileynn@mail.uc.edu
 - Duy Pham (CS) phamdd@mail.uc.edu
 
+#Faculty Advisor
+Dr. Aurek Chattopadhyay
+
 #Project Topic Area
 Nibl is a social platform for discovering what to order at restaurants in the Cincinnati area. 
 Unlike platforms like Yelp and Google Maps, which primarily review restaurants as a whole, Nibl puts individual menu items at the center of the experience. 
