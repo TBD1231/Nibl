@@ -1,4 +1,4 @@
-## Professional Biography
+# Professional Biography
 
 # Contact information
 - (614) 400-4999
