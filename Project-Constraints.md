@@ -1,4 +1,4 @@
-# Restaurant Dish Review Application - Andrew Ogrin-Cotarlan, 
+# Restaurant Dish Review Application - Andrew Ogrin-Cotarlan, Jack Keller, Nathan Wiley, Duy Pham
 
 ## Economic
 Our strict $0 budget restricts our backend to free-tier cloud hosting services, directly capping our database capacity and monthly bandwidth limit. Additionally, our explicit time budget of 225 hours across four team members over two semesters forces us to prioritize core dish-review functionalities and defer secondary application features. 
