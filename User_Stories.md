@@ -1,3 +1,9 @@
+# Team Members
+* Jack Keller (CS) - kelle3jk@mail.uc.edu
+* Andrew Ogrin-Cotarlan (CS) - ogrincaw@mail.uc.edu
+* Nathan Wiley (CS) - wileynn@mail.uc.edu
+* Duy Pham (CS) - phamdd@mail.uc.edu
+
 # Stakeholder Map
 
 | Primary | Secondary | Hidden |
