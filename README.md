@@ -3,10 +3,10 @@
 ## Table of contents:
 1. [Project Abstract](Project-Description.md) 
 2. [User Stories](User_Stories.md)
-3. [Design Diagrams](Design_Diagrams)
-     - [High Level Design](D0_High_Level_Design.md)
-     - [Detailed System Design](D1_Detailed_System_Design.md)
-     - [Detailed System Design Part 2](D2_Detailed_System_Design.md)
+3. Design Diagrams
+     - [High Level Design](Design_Diagrams/D0_High_Level_Design.md)
+     - [Detailed System Design](Design_Diagrams/D1_Detailed_System_Design.md)
+     - [Detailed System Design Part 2](Design_Diagrams/D2_Detailed_System_Design.md)
 5. Project Tasks and Timeline
      - [Tasks (see section 6: Traceability Matrix)](Technical_Specification.md)
      - [Timeline (see section 7: Test schedule and milestones)](Test_Plan.md)
